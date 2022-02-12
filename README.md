@@ -1,3 +1,4 @@
-# Dimensionality Reduction Algorithms Examples (dr-algorithms-bag)
+# Dimensionality Reduction Algorithms Examples
+# (dr-algorithms-bag)
 
 ## PCA
